@@ -21,11 +21,29 @@
 </div>
 
 <br>
+<br>
 
 <div> 
-<h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">These are the technologies that I have experience with</h2>
-  <a href="https://instagram.com/devluxca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:devluxca@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5548999079508&text=Ol%C3%A1!%20Vim%20pelo%20seu%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">Contact me</h2>
+  <a href="https://instagram.com/devluxca" target="_blank">
+    <img 
+        style="border-radius: 6px;box-shadow: -2px 5px 12px -2px rgba(0,0,0,0.26);"
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+        target="_blank"
+    />
+  </a>
+  <a href = "mailto:devluxca@icloud.com">
+    <img 
+      style="border-radius: 6px;box-shadow: -2px 5px 12px -2px rgba(0,0,0,0.26);"
+      src="https://img.shields.io/badge/-MAIL-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"
+    />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5548999079508&text=Ol%C3%A1!%20Vim%20pelo%20seu%20github!" target="_blank">
+    <img 
+        style="border-radius: 6px;box-shadow: -2px 5px 12px -2px rgba(0,0,0,0.26);"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+        target="_blank"
+    />
+    </a> 
 </div>
   
