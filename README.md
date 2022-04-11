@@ -1,109 +1,47 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
+### Olá! Sou o Carlos Diamantino 👋😎
 
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+<div align="center">
+  <a href="https://github.com/devluxca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluxca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluxca&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+### Essas são as linguagens e ferramentas que eu sei usar!
 
----
+<div style="display: inline_block"><br>
+  <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
+  <img align="left" alt="Svelter" width="45px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
+  <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
+  <img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />
+  <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/354238/python.svg"/>
+  <img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />
+  <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
+  <img align="left" alt="Visual Studio Code" width="28px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
+  <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
+</div>
 
-# svelte app
+<br>
+<br>
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+### Vamos jogar juntos:
+<a href="https://cssbattle.dev/player/CtOl69x4esURWWaldg2u0WxFcMj1"><img align="left" alt="cssbattle" width="100px" src="https://cssbattle.dev/images/logo.svg"/></a> 
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+  <br>
+  
+### Confira o que faço no FrontEnd:
+<a href="https://codepen.io/carlosdiamantino"><img alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" style="cursor: pointer;"/></a>
+  
+<br>
+<br>
 
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
+<div> 
+  
+  ![Snake gif](https://github.com/devluxca/devluxca/blob/output/github-contribution-grid-snake.svg)
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
-
-## Get started
-
-Install the dependencies...
-
-```bash
-cd svelte-app
-npm install
-```
-
-...then start [Rollup](https://rollupjs.org):
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
-By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
-
-If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.
-
-## Building and running in production mode
-
-To create an optimised version of the app:
-
-```bash
-npm run build
-```
-
-You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
-
-
-## Single-page app mode
-
-By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
-
-If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `"start"` command in package.json:
-
-```js
-"start": "sirv public --single"
-```
-
-## Using TypeScript
-
-This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
-
-```bash
-node scripts/setupTypeScript.js
-```
-
-Or remove the script via:
-
-```bash
-rm scripts/setupTypeScript.js
-```
-
-If you want to use `baseUrl` or `path` aliases within your `tsconfig`, you need to set up `@rollup/plugin-alias` to tell Rollup to resolve the aliases. For more info, see [this StackOverflow question](https://stackoverflow.com/questions/63427935/setup-tsconfig-path-in-svelte).
-
-## Deploying to the web
-
-### With [Vercel](https://vercel.com)
-
-Install `vercel` if you haven't already:
-
-```bash
-npm install -g vercel
-```
-
-Then, from within your project folder:
-
-```bash
-cd public
-vercel deploy --name my-project
-```
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public my-project.surge.sh
-```
+<h4>💬 Se quiser me perguntar algo: </h4>
+<br>
+  <a href="https://instagram.com/devluxca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devluxca@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511996514206&text=Ol%C3%A1!%20Vim%20pelo%20seu%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
+  
