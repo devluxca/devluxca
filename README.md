@@ -8,7 +8,7 @@
   
 
 <h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">These are the technologies that I have experience with</h2>
-<div style="display: flex; gap: 10px;"><br>
+<div style="display: flex;">
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
   <img align="left" alt="Svelter" width="30px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
@@ -17,7 +17,7 @@
   <img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />
   <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
   <img align="left" alt="Visual Studio Code" width="28px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
-  <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
+  <img align="left" alt="Docker" width="45px" style="padding-bottom: 200px;" src="https://www.svgrepo.com/show/373553/docker.svg" />
 </div>
 
 <br>
