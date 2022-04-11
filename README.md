@@ -8,7 +8,7 @@
   
 
 <h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">These are the technologies that I have experience with</h2>
-<div style="display: flex; gap: 10px;><br>
+<div style="display: flex; gap: 10px;"><br>
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
   <img align="left" alt="Svelter" width="30px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
