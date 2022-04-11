@@ -1,4 +1,4 @@
-### Olá! Sou o Carlos Diamantino 👋😎
+### Hi! I'm Luxca 👋😎
 
 <div align="center">
   <a href="https://github.com/devluxca">
