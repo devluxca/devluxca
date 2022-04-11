@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluxca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-### Essas são as linguagens e ferramentas que eu sei usar!
 
-<div style="display: inline_block"><br>
+<h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">These are the technologies that I have experience with</h2>
+<div style="display: flex; gap: 10px;"><br>
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
   <img align="left" alt="Svelter" width="30px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
@@ -21,11 +21,9 @@
 </div>
 
 <br>
-<br>
 
 <div> 
-<h4>💬 Contact me: </h4>
-<br>
+<h2 style="font-size: 16px; margin-top: 15px;margin-bottom: 0px;">These are the technologies that I have experience with</h2>
   <a href="https://instagram.com/devluxca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:devluxca@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5548999079508&text=Ol%C3%A1!%20Vim%20pelo%20seu%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
