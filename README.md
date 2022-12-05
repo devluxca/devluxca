@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/devluxca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluxca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluxca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluxca&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
 
@@ -18,6 +18,7 @@
   <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
   <img align="left" alt="Visual Studio Code" width="28px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
   <img align="left" alt="Docker" width="45px" style="padding-bottom: 200px;" src="https://www.svgrepo.com/show/373553/docker.svg" />
+  <img align="left" alt="Go" width="45px" src="https://www.svgrepo.com/show/353795/go.svg" />
 </div>
 
 <br>
