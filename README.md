@@ -22,9 +22,9 @@
   <img align="left" alt="Go" width="45px" src="https://www.svgrepo.com/show/353795/go.svg" />
   <img align="left" alt="AWS" width="45px" src="https://www.svgrepo.com/show/376356/aws.svg" />
   <img align="left" alt="Postgres" width="45px" src="https://www.svgrepo.com/show/373965/pgsql.svg" />
+    <br><br><br>
   <img align="left" alt="NodeJS" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />
   <img align="left" alt="MongoDB" width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-  <br><br><br>
   <img align="left" alt="ReactJS" width="45px" src="https://www.svgrepo.com/show/354259/react.svg" />
   <img align="left" alt="VueJS" width="45px" src="https://www.svgrepo.com/show/374175/vue.svg" />
   <img align="left" alt="RamdaJS" width="45px" src="https://www.svgrepo.com/show/354253/ramda.svg" />
