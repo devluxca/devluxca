@@ -29,6 +29,7 @@
   <img align="left" alt="VueJS" width="45px" src="https://www.svgrepo.com/show/374175/vue.svg" />
   <img align="left" alt="RamdaJS" width="45px" src="https://www.svgrepo.com/show/354253/ramda.svg" />
   <img align="left" alt="ViteJS" width="45px" src="https://www.svgrepo.com/show/354521/vitejs.svg" />
+  <img align="left" alt="ViteJS" width="45px" src="https://www.svgrepo.com/show/373577/elixir.svg" />
 </div>
 
   <br>
